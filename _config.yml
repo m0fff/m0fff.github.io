@@ -1,2 +1,3 @@
 name: m0fff
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
