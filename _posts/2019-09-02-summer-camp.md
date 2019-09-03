@@ -8,12 +8,19 @@ security camp, hacker camp either/and, doesn't matter because it is warm/hot, co
 
 Curious to learn more about single sign-on, <em>SSO Wars the token menace</em> provided an overview along with two CVEs one of which highlighted how code paths that don't coordinate can lead to "confusion" and exploit. <a href="https://github.com/pwntester/DupeKeyInjector">Slides, code and more</a>
 
-Graph theory! Visuals are good(tm). Previous talk(s) including <a href="https://www.youtube.com/watch?v=ZukUmZSKSek">Sacha Faust using graphs to map assets</a>, along with some basic exposure/dabbling with neo4j has me on the lookout for more and @BsidesLV didn't disappoint:
-<ul>
-<li><a href="https://twitter.com/cxosidekick">cxosidekick</a> shared *lots* of great detail about the use of graphs including graphing/mapping an environment (tech, business, risk), automated workflow involving humans to update/improve security posture and accept risk, with tools the org. was already using. <a href="https://youtu.be/LjCtbpXQA9U?t=4153"><em>Building an enterprise security knowledge graph to fuel better decisions, faster</em></a></li>
-<li><a href="https://twitter.com/insanitybit">insanitybit</a> focused in on parsing logs to graph, enabling reduction in volume (compared to the logs) and an example identifying exploit flow. <em><a href="https://youtu.be/LjCtbpXQA9U?t=8025">Grapl - a Graph Platform for detection and response</a></em> and <a href="https://github.com/insanitybit/grapl">Grapl on GitHub</a></li>
-<li>During a line discussion <a href="https://github.com/BloodHoundAD/BloodHound">BloodHound</a> was mentioned (new to me!) that maps AD relationships using graph theory so you can identify who is a member of what for example.</li>
 
+___
+
+
+Graph theory! Visuals are good(tm). Previous talk(s) including <a href="https://www.youtube.com/watch?v=ZukUmZSKSek">Sacha Faust using graphs to map assets</a>, along with some basic exposure/dabbling with neo4j has me on the lookout for more and @BsidesLV didn't disappoint:
+
+<a href="https://twitter.com/cxosidekick">cxosidekick</a> shared *lots* of great detail about the use of graphs including graphing/mapping an environment (tech, business, risk), automated workflow involving humans to update/improve security posture and accept risk, with tools the org. was already using. <a href="https://youtu.be/LjCtbpXQA9U?t=4153"><em>Building an enterprise security knowledge graph to fuel better decisions, faster.</em></a>
+
+<a href="https://twitter.com/insanitybit">insanitybit</a> focused in on parsing logs to graph, enabling reduction in volume (compared to the logs) and an example identifying exploit flow. <em><a href="https://youtu.be/LjCtbpXQA9U?t=8025">Grapl - a Graph Platform for detection and response</a></em> and <a href="https://github.com/insanitybit/grapl">Grapl on GitHub</a>
+
+During a line discussion <a href="https://github.com/BloodHoundAD/BloodHound">BloodHound</a> was mentioned (new to me!) that maps AD relationships using graph theory so you can identify who is a member of what for example.
+
+___
 
 32 villages at defcon 27! that now includes boats and planes, awesome! options++ including 10th year for the social engineering village where the people skills aspect of several talks around communication were relate-able for me to work/life scenarios:
  - "don't do emotional crazy & don't judge, understand" Robin Drake
